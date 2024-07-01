@@ -7,21 +7,16 @@
     <td valign="center">
       
 💻 Software Engineer - Flutter at Brandverse            
-      
+
+🎓 Persuing Masters in Data Science from NED University
+
 🎓 Graduated from DHA Suffa University in Computer Science Major
 
 🌱 Flutter Enthuiast & Instructor
 
 ✍️ Technical Writer at Flutter Medium Community
 
-🎯 My Goal is to Contribute to as many **open source project** as possible.
-
-✨ I love to create different types of **contents**.
-
-      
-<td >
-      <a href="https://app.daily.dev/hussainhabib2"><img src="https://api.daily.dev/devcards/e2220e4a744846c3a95d39a86da9143a.png?r=402" width="200" alt="Muhammad Hussain's Dev Card"/></a>
-    </td>
+  
     
   </tr>
   </table>
@@ -41,7 +36,7 @@
 
 ### DevOps & Cloud Tools⚒️
 
-<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/35/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/35/000000/figma--v2.png"/> <img src="https://img.icons8.com/color/35/000000/git.png"/> <img src="https://img.icons8.com/color/35/000000/github.png"/> <img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/> 
+<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/35/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/35/000000/figma--v2.png"/> <img src="https://img.icons8.com/color/35/000000/git.png"/> <img src="https://img.icons8.com/color/35/000000/github.png"/> 
 
 
 ## Stats📈
