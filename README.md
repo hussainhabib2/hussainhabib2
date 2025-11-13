@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Hussain <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="25px">
+# Hi, I'm Hussain Habibullah <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="25px">
 
 ## About Me🧑🏼‍💻
 
@@ -14,9 +14,9 @@
 
 🌱 Flutter Enthuiast & Instructor
 
-✍️ Technical Writer at Flutter Medium Community
+✍️ Technical Writer at Flutter Medium Community https://blog.hussainhabibullah.com
 
-✍️ Visit: https://hussainhabib.web.app
+✍️ Website Portfolio: https://hussainhabibullah.com
     
   </tr>
   </table>
@@ -57,6 +57,3 @@
 <!-- HASHNODE_BLOG:END -->
 
   
-## Support Me💰
-
-<a href="https://www.buymeacoffee.com/hussainhabib" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
