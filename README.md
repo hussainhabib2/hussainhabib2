@@ -1,59 +1,56 @@
-# Hi, I'm Hussain Habibullah <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="25px">
+### Hey there, I'm Hussain Habibullah
+Let's connect!
 
-## About Me🧑🏼‍💻
+### A Flutter Developer, Instructor & Open Source Contributor
 
-<table>
-  <tr>
-    <td valign="center">
-      
-💻 Software Engineer - Flutter at Brandverse            
+#### Little about me:
 
-🎓 Persuing Masters in Data Science from NED University
+- 🚀 5+ years of experience with **30+ live apps** reaching **500K+ users**
+- 📱 Notable apps: [Mia Plus](https://hussainhabibullah.com/), [Tournated](https://hussainhabibullah.com/), and [Exhibits](https://hussainhabibullah.com/)
+- 📦 Creator of [flexible_polyline](https://pub.dev/publishers/hussainhabibullah.com/packages) - A Dart package
+- 🎓 Flutter Instructor at **Bano Qabil 1.0** & **Aga Khan Development Network** (2 courses)
+- ✍ Author at [Flutter Community on Medium][medium_flutter]
+- 🏆 **Runner Up** & **Cleanest Code Award** - Flutter Flash 2024
+- 📜 Certified from **Angela Yu's Flutter Course**
+- 💻 Participant at **Google DSU Flutter Bootcamp**
+- 🏓 Table Tennis enthusiast!
+- 👀 Check out my [Portfolio][portfolio]
 
-🎓 Graduated from DHA Suffa University in Computer Science Major
+#### ✍ Recent Blog Posts
 
-🌱 Flutter Enthuiast & Instructor
+- [Dynamic Google Map Style for Dark/Light Themes](https://medium.com/@hussainhabibullah/dynamic-google-map-style-for-dark-light-themes-2d3759e23007?postPublishedType=repub)
+- [Flutter Shadcn UI: Modern Widgets for Your Web App](https://blog.hussainhabibullah.com/flutter-shadcn-ui-modern-widgets-for-your-web-app-81ee846513c3)
+- [Flutter Equatable](https://blog.hussainhabibullah.com/flutter-equatable-f589a16b3744)
+- [Null-Aware Operators](https://medium.com/flutter-community/null-aware-operators-281c18407afe)
+- [Flutter: Integrating Socket.IO Client](https://medium.com/flutter-community/flutter-integrating-socket-io-client-2a8f6e208810)
 
-✍️ Technical Writer at Flutter Medium Community https://blog.hussainhabibullah.com
+#### 🛠 Tools & Technology
 
-✍️ Website Portfolio: https://hussainhabibullah.com
-    
-  </tr>
-  </table>
+- Flutter & Dart
+- React & Node.js
+- JavaScript
+- Firebase
+- WordPress
 
+#### 📊 My GitHub Stats
 
-## Connect With Me👋🏼
+[![Hussain's github stats](https://github-readme-stats.vercel.app/api?username=hussainhabib2&theme=gotham)](https://github.com/hussainhabibullah/github-readme-stats)
 
-<p align="left">  
-<a href="https://linkedin.com/in/hussainhabibullah" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
-</p>
-    
-## Technologies⚙️
+#### 🤝 Connect with Me
 
-### Languages✍🏼
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][stackoverflow]
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)][portfolio]
 
-<img src="https://img.icons8.com/color/344/flutter.png" height= "40px" width= "40px" /> <img src="https://img.icons8.com/color/452/dart.png" height= "40px" width= "40px" /> <img src="https://img.icons8.com/color/344/python--v1.png" height= "40px" width= "40px"/> <img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png" height= "40px" width= "40px" /> <img src="https://img.icons8.com/color/344/nodejs.png" height= "40px" width= "40px" />
+---
 
-### DevOps & Cloud Tools⚒️
+Open Source Contributor passionate about building impactful mobile applications 💙
 
-<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/35/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/35/000000/figma--v2.png"/> <img src="https://img.icons8.com/color/35/000000/git.png"/> <img src="https://img.icons8.com/color/35/000000/github.png"/> 
+[portfolio]: https://hussainhabibullah.com/
+[linkedin]: https://www.linkedin.com/in/hussainhabibullah
+[stackoverflow]: https://stackoverflow.com/users/16862757/muhammad-hussain
+[medium]: https://blog.hussainhabibullah.com/
+[medium_flutter]: https://medium.com/flutter-community
 
-
-## Stats📈
-
-<p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainhabib2&theme=highcontrast&hide_border=true" alt="hussainhabib2" />
-</p>
-
-
-## My Famous Blog Posts📖
-
-<!-- HASHNODE_BLOG:START -->
-- [What is Equatable?](https://hussainhabibullah.medium.com/flutter-equatable-f589a16b3744)
-- [Setup CI/CD for Flutter Apps](https://medium.com/flutter-community/set-up-ci-cd-for-your-flutter-application-b62d3493498)
-- [What is Dart Doc?](https://medium.com/flutter-community/flutter-what-is-dart-doc-4beffbed6a46)
-- [Biometric Authentications in Flutter](https://hussainhabibullah.medium.com/bio-metric-authentications-in-flutter-96c07c79e720)
-- [Make your private flutter package](https://medium.com/flutter-community/make-your-private-flutter-package-23a75ba899)
-<!-- HASHNODE_BLOG:END -->
-
-  
+![Profile Views](https://komarev.com/ghpvc/?username=hussainhabib2&color=blue&style=flat-square&label=Profile+Views)
