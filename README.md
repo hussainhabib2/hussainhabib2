@@ -36,6 +36,8 @@ Let's connect!
 
 [![Hussain's github stats](https://github-readme-stats.vercel.app/api?username=hussainhabib2&theme=gotham)](https://github.com/hussainhabibullah/github-readme-stats)
 
+[![Hussain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hussainhabib2&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 #### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
